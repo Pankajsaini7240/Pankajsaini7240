@@ -9,7 +9,7 @@ custom_answers = {
     "Who created you" : "Mr. Singodiya Created me."
     # ... add more questions and answers here
 }
-Bot_Token = "7224472804:AAEGK9Rl4Is1GI5KZidHFcd313N2OVgHc5E"
+Bot_Token = "6163062114:AAFxBDGa1G4BPQvXbC-MGC2P9DfMUqWebAw"
 
 base_url = f"https://api.telegram.org/bot{Bot_Token}"  # Replace with your actual bot token
 known_chat_ids = set()
